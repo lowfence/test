@@ -5,3 +5,4 @@ test.VC.db
 *.lastbuildstate
 *.idb
 *.filters
+/ipch/TEST2-1dcbd4f0/TEST2-22636d3e.ipch
